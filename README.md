@@ -1,47 +1,33 @@
-<h1 align="center">Hi 👋, I'm Adil Sameer</h1>
-<h3 align="center">A passionate final-year B.Tech CSE student at Sharnbasva University</h3>
+**Adil Sameer**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-Python%20(Flask)-brightgreen" alt="Full Stack Developer">
-  <img src="https://img.shields.io/badge/Cloud-AWS-blue" alt="AWS Certified">
-  <img src="https://img.shields.io/badge/Data_Analysis-Excel%2C%20Power%20BI%2C%20Tableau-yellow" alt="Data Analysis">
-</p>
+[![Python Logo](https://www.python.org/static/img/python-logo.svg)](https://www.python.org/)  [![Flask Logo](https://flask.palletsprojects.com/en/2.2.x/_static/flask-powered-badge.svg)](https://flask.palletsprojects.com/)  [![AWS Logo](https://d1.awsstatic.com/training-and-certification/Certification_AWS_Cloud_Practitioner_Associate.svg)](https://aws.amazon.com/certification/)  [![Excel Logo](https://raw.githubusercontent.com/amoeba/badges/master/microsoft/excel.svg)](https://products.office.com/en-us/excel)  [![Power BI Logo](https://raw.githubusercontent.com/amoeba/badges/master/microsoft/power-bi.svg)](https://powerbi.microsoft.com/)  [![Tableau Logo](https://raw.githubusercontent.com/amoeba/badges/master/tableau/tableau-desktop.svg)](https://tableau.com/)
 
-- 🔭 I’m currently working on **innovative tech solutions**
-- 🌱 I’m currently learning **advanced cloud technologies and data visualization**
-- 👯 I’m looking to collaborate on **full-stack development projects**
-- 🤔 I’m looking for help with **open-source contributions**
-- 💬 Ask me about **AWS, Flask, Data Analysis**
-- 📫 How to reach me: **[adil.sameer@example.com](mailto:adil.sameer@example.com)**
+**B.Tech CSE | Sharnbasva University**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adil-sameer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/adil_sameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="twitter" height="30" width="40" /></a>
-</p>
+**About Me**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
-</p>
+I'm Adil Sameer, a passionate technologist driven by building innovative solutions. With a strong foundation in full-stack development using Python (Flask) and cloud technologies (AWS Certified), I'm constantly expanding my skillset. I recently earned my AWS Cloud Practitioner certification and am actively exploring the world of data analysis with Excel, Power BI, and Tableau. 
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilsameer&show_icons=true&theme=radical" alt="adilsameer" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilsameer&theme=radical" alt="adilsameer" />
-</p>
+**Skills & Interests**
 
-<h3 align="left">Top Languages:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsameer&layout=compact&theme=radical" alt="adilsameer" />
-</p>
+* Full-Stack Development (Python, Flask)
+* Cloud Technologies (AWS)
+* Data Analysis (Excel, Power BI, Tableau)
+* Problem-Solving
+* Continuous Learning
 
-<h3 align="left">Coding Activity:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adilsameer&theme=react-dark" alt="adilsameer" />
-</p>
+**Looking For**
+
+I'm eager to leverage my skills in development or data-related fields. Whether it's contributing to open-source projects or tackling challenging technical problems, I'm excited to collaborate and grow as a developer.
+
+**Connect With Me**
+
+(Add links to your LinkedIn, Twitter, or other relevant profiles here)
+
+**Contribution Stats**
+
+[![GitHub Contributions](https://img.shields.io/github/commits/yearly/adilsameer/repos?style=flat-square)](https://github.com/adilsameer)
+
+**Let's Build Something Awesome!**
+
+I'm always open to connecting and discussing new projects. Feel free to reach out!
