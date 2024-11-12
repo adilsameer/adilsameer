@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/Data_Analysis-Excel%2C%20Power%20BI%2C%20Tableau-yellow" alt="Data Analysis">
 </p>
 
-- 🔭 I’m currently working on **innovative tech solutions**
+- 🔭 I’m currently working on **Persist Ventures**
 - 🌱 I’m currently learning **advanced cloud technologies and data visualization**
 - 👯 I’m looking to collaborate on **full-stack development projects**
 - 🤔 I’m looking for help with **open-source contributions**
-- 💬 Ask me about **AWS, Flask, Data Analysis**
+- 💬 Ask me about **Python, APIs, AWS, Flask, Data Analysis**
 - 📫 How to reach me: **[adilsameer63+github@gmail.com](mailto:adilsameer63+github@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
